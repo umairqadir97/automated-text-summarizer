@@ -39,3 +39,11 @@ without arguments. On execution it first asks for the path where articles are lo
 **extractive.py** applies ‘TextRank’ algorithm and contains ‘summarize’ function for extractive summarization.
 
 **summary.py** contains the function for finding similar sentences to relevant to subtopics.
+
+
+## Requirements
+
+Python3
+Nltk
+Sklearn
+Networkx
